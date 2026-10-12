@@ -20,7 +20,7 @@
 | [PCB](https://jlcpcb.com) | starbie | 1 | $8.50 | $8.50 | [jlcpcb](https://jlcpcb.com) |
 | [0.96OLED](https://www.amazon.com/dp/B0GBWXTR1Z?th=1) | starbie | 1 | $6.00 | $6.00 | [amazon](https://www.amazon.com/dp/B0GBWXTR1Z?th=1) |
 | **Parts subtotal** | — | — | — | **$32.50** | — |
-| **Tax & shipping** | — | — | — | **$8.30** | — |
-| **Total** | — | — | — | **$40.80** | — |
+| **Tax & shipping** | — | — | — | **$0.00** | — |
+| **Total** | — | — | — | **$32.50** | — |
 
-**$10.80 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$2.50 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
