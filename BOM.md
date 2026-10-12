@@ -15,13 +15,12 @@
 | [XIAO ESP32 C3](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html) | starbie | 1 | $5.00 | $5.00 | [seedstudio](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html) |
 | [0.96 OLED](https://www.amazon.com/dp/B0GBVWBWCR) | starbie | 1 | $6.00 | $6.00 | [amazon](https://www.amazon.com/dp/B0GBVWBWCR) |
 | [MPU6050](https://www.amazon.com/dp/B0943SGP34) | starbie | 1 | $22.89 | $22.89 | [amazon](https://www.amazon.com/dp/B0943SGP34) |
-| [DHT11](https://www.amazon.com/dp/B0BLG7R99R) | starbie | 1 | $3.33 | $3.33 | [amazon](https://www.amazon.com/dp/B0BLG7R99R) |
 | [MX Switches](https://www.amazon.com//dp/B0FQP8VYX4) | starbie | 4 | $0.18 | $0.72 | [amazon](https://www.amazon.com//dp/B0FQP8VYX4) |
 | [Keycaps](https://www.amazon.com/dp/B0CQ2VLMVY) | starbie | 4 | $0.60 | $2.40 | [amazon](https://www.amazon.com/dp/B0CQ2VLMVY) |
 | [10k Resistor](https://www.amazon.com/dp/B0B4JFPHTW) | starbie | 1 | $0.05 | $0.05 | [amazon](https://www.amazon.com/dp/B0B4JFPHTW) |
 | [PCB](https://www.jlcpcb.com/) | starbie | 1 | $8.50 | $8.50 | [jlcpcb](https://www.jlcpcb.com/) |
-| **Parts subtotal** | — | — | — | **$48.89** | — |
+| **Parts subtotal** | — | — | — | **$45.56** | — |
 | **Tax & shipping** | — | — | — | **$14.50** | — |
-| **Total** | — | — | — | **$63.39** | — |
+| **Total** | — | — | — | **$60.06** | — |
 
-**$33.39 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$30.06 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
