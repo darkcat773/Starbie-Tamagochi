@@ -11,3 +11,4 @@ The user can tilt the device to move the selector on the radial menu and can pre
 Unlike the tutorial, the heart design is inspired by my OC, and every design(the hearts, soundwave, and patch) was drawn by me!
 
 <img width="419" height="329" alt="image" src="https://github.com/user-attachments/assets/fb40cf41-9e1d-49b6-9f71-3d22f8ce7e9e" />
+<img width="862" height="584" alt="image" src="https://github.com/user-attachments/assets/a84bfe1b-3552-4580-bfdf-fb4daaea4ded" />
