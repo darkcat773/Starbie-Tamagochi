@@ -1,6 +1,7 @@
 # Starbie-Tamagochi
 
-<img width="605" height="439" alt="image" src="https://github.com/user-attachments/assets/745ec124-a47a-4d1c-a7b1-25df1e4a1712" />
+<img width="509" height="419" alt="image" src="https://github.com/user-attachments/assets/ac06bde8-1112-47bd-b6bd-4a1ae70f46e3" />
+
 
 This project was made by following the Starbie tutorial on Hack Club: https://github.com/SharKingStudios/Starbie/blob/main/Week%201%20Guide.md
 
